@@ -1,3 +1,7 @@
+<p data-importer="text" align="left">Hello World!!<br>My name is John Hulliger and I am a student at the Developer Academy</p>
+
+###
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media.licdn.com/dms/image/v2/C4D03AQHp1a9O2TGRIQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1534160509835?e=1785974400&v=beta&t=D7Gy3CoD2sF0j_pQVL2gZUFQGdea68rGGpeaiFpMW4k"  />
 </div>
